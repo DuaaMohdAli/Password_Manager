@@ -4,4 +4,3 @@
   Python + Flask (backend)
   HTML, CSS, JavaScript (frontend)
   Everything is stored in memory (so it resets when you restart)
-![Uploading image.png…]()
